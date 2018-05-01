@@ -1,0 +1,55 @@
+{
+  "clubs" : {
+    "arsenal" : {
+      "calendar" : "http://api.football-data.org/v1/teams/57/fixtures",
+      "curiosity" : [ "Arsenal został założony w 1886 roku i był pierwszym klubem z południa Anglii, który dołączył do The Football League, w 1893 roku", "Tradycyjnymi barwami klubu są czerwony i biały. Barwy te w historii klubu przyjmowały różne odcienie.", "Arsenal został założony jako Dial Square w 1886 roku przez pracowników zakładów zbrojeniowych Royal Arsenal" ],
+      "name" : "Arsenal",
+      "table" : "http://api.football-data.org/v1/competitions/445/leagueTable",
+      "team" : "http://api.football-data.org/v1/teams/57/players"
+    },
+    "as_roma" : {
+      "calendar" : "http://api.football-data.org/v1/teams/100/fixtures",
+      "curiosity" : [ "Latem 1969 karierę piłkarską zakończył Giacomo Losi, który obecnie dzierży rekord klubowy pod względem występów w Serie A (386 spotkań).", "W sezonie 2009/2010 Roma została wicemistrzem kraju tracąc w końcowej tabeli 2 punkty do Interu Mediolan", "22 lipca 1927 roku powstała Associazione Sportiva Roma w wyniku fuzji Alby, Roman i Fortitudo" ],
+      "name" : "AS Roma",
+      "table" : "http://api.football-data.org/v1/competitions/456/leagueTable",
+      "team" : "http://api.football-data.org/v1/teams/100/players"
+    },
+    "manchester_city" : {
+      "curiosity" : [ "ciekawostka1", "cioekawostka2", "ciekawostka3" ],
+      "fb" : "fb-test",
+      "name" : "Manchester City",
+      "twitter" : "tw-test"
+    },
+    "manchester_utd" : {
+      "curiosity" : [ "c1", "c2", "c3", "c4" ],
+      "fb" : "fb-test",
+      "name" : "Manchester United",
+      "twitter" : "tw-test"
+    },
+    "real_madryt" : {
+      "calendar" : "http://api.football-data.org/v1/teams/86/fixtures",
+      "curiosity" : [ "Od 1947 roku drużyna ta rozgrywa domowe spotkania na stadionie Santiago Bernabéu, nazwanym na cześć byłego prezesa, za którego czasów klub zdobył najwięcej trofeów", "Od 1931 roku Real Madryt posiada też utytułowaną drużynę koszykarską, która zdobyła trzydzieści trzy tytuły mistrza kraju i odniosła dziewięć triumfów w Eurolidze", "Real Madryt od początku występował w białych strojach. Początkowo ubiór do gry składał się z białej, zapinanej na guziki koszuli z długimi rękawami i kołnierzykiem, białych spodenek z poziomym pasem w barwach flagi hiszpańskiej oraz czarnych getrów z takim samym pasem." ],
+      "name" : "Real Madryt",
+      "table" : "http://api.football-data.org/v1/competitions/455/leagueTable",
+      "team" : "http://api.football-data.org/v1/teams/86/players"
+    }
+  },
+  "users" : {
+    "6QB2Kv0gH0OddImjSAKnwWkdGtF3" : {
+      "clubs" : [ "arsenal", "as_roma" ],
+      "name" : "test1@test1.pl"
+    },
+    "77F8NUdT6YairfAaFoa5WUD8h2V2" : {
+      "clubs" : "empty",
+      "name" : "test2@test2.pl"
+    },
+    "D5gcaXK4libipYZb1G2uuC62kGZ2" : {
+      "clubs" : [ "real_madryt" ],
+      "name" : "lukaszpapierz93@gmail"
+    },
+    "EgA1hyzJ73ajaTg2fMRHn3BJeFS2" : {
+      "clubs" : [ "as_roma", "arsenal" ],
+      "name" : "test@test.test"
+    }
+  }
+}
